@@ -1,5 +1,5 @@
 # WallpaperCat
-A cat live wallpaper
+An interactive cat live wallpaper
 
 # How To Use
 - 1. Install Python
