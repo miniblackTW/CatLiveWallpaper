@@ -1,2 +1,2 @@
-# CatLiveWallpaper
+# WallpaperCat
 A cat live wallpaper
